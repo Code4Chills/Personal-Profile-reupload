@@ -56,7 +56,7 @@ function Peary() {
           Experienced in frontend developement of modern Django and React web applications for E-commerce
           businesses. Qualified in fullstack development of Django web apps.
         </p>
-        <a href={Resume} download>
+        <a href={cv} download>
           <button className="hover">Resume</button>
         </a>
       </div>
