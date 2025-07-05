@@ -8,7 +8,7 @@ import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
-import cv2 from '../../assets/cv2.pdf';
+import cv3 from '../../assets/cv3.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 function Peary() {
@@ -56,7 +56,7 @@ function Peary() {
           Experienced in frontend developement of modern Django and React web applications for E-commerce
           businesses. Qualified in fullstack development of Django web apps.
         </p>
-        <a href={cv2} download>
+        <a href={cv3} download>
           <button className="hover">Resume</button>
         </a>
       </div>
