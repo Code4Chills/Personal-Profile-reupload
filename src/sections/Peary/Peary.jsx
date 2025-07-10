@@ -63,7 +63,7 @@ function Peary() {
         </a>
       </div>
     </section>
-    &nbsp
+   <span></span>
     
   );
 }
