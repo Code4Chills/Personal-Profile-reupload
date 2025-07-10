@@ -55,7 +55,7 @@ function Peary() {
         <p className={styles.description}>
           Hello There! If you're here that Means you need a web application developed for your business or personal needs.
           I am a fullstack web developer with experience in building web applications for E-commerce companies.
-          ReactJS Apps, Django Apps and ASP.NET Apps! I can build them all and design User Interfaces that enhance your user experience.
+          ReactJS Apps, Django Apps and ASP.NET Apps!
         </p>
         <br/>
         <a href={cv3} download>
