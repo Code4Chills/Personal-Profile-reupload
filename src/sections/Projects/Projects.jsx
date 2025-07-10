@@ -23,7 +23,7 @@ function Projects() {
         <div className='col-md-6'>
         <ProjectCard
           src={shinraban}
-          link="https://shinra-ban-ecom-fullstack-webapp.onrender.com/"
+          link="https://shinra-ban-ecom-webapp.onrender.com"
           h3="Shinra Ban Ecom"
           p="Clothes, Jewelry and Accesories Ecommerce Web Application"
         />
