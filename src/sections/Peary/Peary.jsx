@@ -53,8 +53,9 @@ function Peary() {
           </a>
         </span>
         <p className={styles.description}>
-          Experienced in frontend developement of modern Django and React web applications for E-commerce
-          businesses. Qualified in fullstack development of Django web apps.
+          Hello There! If you're here that Means you need a web application developed for your business or personal needs.
+          I am a fullstack web developer with experience in building web applications for E-commerce companies.
+          ReactJS Apps, Django Apps and ASP.NET Apps! I can build them all and design User Interfaces that enhance your user experience.
         </p>
         <a href={cv3} download>
           <button className="hover">Resume</button>
