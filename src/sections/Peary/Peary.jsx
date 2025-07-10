@@ -57,13 +57,13 @@ function Peary() {
           I am a fullstack web developer with experience in building web applications for E-commerce companies.
           ReactJS Apps, Django Apps and ASP.NET Apps!
         </p>
-        <br/>
+        <span>
         <a href={cv3} download>
           <button className="hover">Resume</button>
-        </a>
+        </a></span>
       </div>
     </section>
-   <span></span>
+   
     
   );
 }
