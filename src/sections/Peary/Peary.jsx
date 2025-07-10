@@ -62,8 +62,8 @@ function Peary() {
           <button className="hover">Resume</button>
         </a>
       </div>
-      <br/>
     </section>
+    <br/>
     
   );
 }
