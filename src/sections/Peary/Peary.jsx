@@ -8,7 +8,7 @@ import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
-import cv3 from '../../assets/cv3.pdf';
+import cv4 from '../../assets/cv4.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 function Peary() {
@@ -58,14 +58,14 @@ function Peary() {
           ReactJS Apps, Django Apps and ASP.NET Apps!
         </p>
         <span>
-        <a href={cv3} download>
+        <a href={cv4} download>
           <button className="hover">Resume</button>
         </a></span>
       </div>
     </section>
    
     
-  );
+  );s
 }
 
 export default Peary;
